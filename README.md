@@ -31,9 +31,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://jekyllrb.com/) and ![Image](https://www.stickpng.com/assets/images/5848098dcef1014c0b5e4903.png)
+[Link](https://jekyllrb.com/) and ![Image](https://jekyllrb.com/img/logo-2x.png)
 ```
-[Jekyll](https://jekyllrb.com/) and ![Jekyll-logo](https://www.stickpng.com/assets/images/5848098dcef1014c0b5e4903.png)
+[Jekyll](https://jekyllrb.com/) and ![Jekyll-logo](https://jekyllrb.com/img/logo-2x.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
