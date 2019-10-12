@@ -21,6 +21,14 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
